@@ -22,7 +22,7 @@ This is a simple Discord bot built using Python and `discord.py` for managing ta
 Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/joanitolopo/task-management-bot.git
+git clone https://github.com/joanitolopo/task_manager_bot
 cd task-management-bot
 ```
 
